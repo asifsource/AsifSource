@@ -35,5 +35,12 @@ As an experienced professional in the IT industry, I bring a strong set of skill
          
 #
 
+### 📊 Stats
+
+![AsifSource's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifsource&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=AsifSource&theme=gruvbox&border_radius=4.5) -->
+
+#
 [website]: https://www.linkedin.com/in/asifshaikh-rhce
 [youtube]: https://youtube.com/@opensourceasif
