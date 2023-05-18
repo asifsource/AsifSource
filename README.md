@@ -31,8 +31,8 @@ As an experienced professional in the IT industry, I bring a strong set of skill
 #
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@opensourceasif)
-
-
+[<img align="left" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg?style=for-the-badge&logo=video&logoColor=white"/>](https://www.linkedin.com/in/asifshaikh-rhce)
+         
 #
 
 [website]: https://www.linkedin.com/in/asifshaikh-rhce
