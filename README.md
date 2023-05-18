@@ -1,16 +1,39 @@
-### Hi there 👋
+# 😉 Open Source Asif
 
-<!--
-**asifsource/AsifSource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**'Asif Adbul Gani Shaikh ( AWS Cloud | RHCE | RHCSA | Docker | VMware )'**
 
-Here are some ideas to get you started:
+As an experienced professional in the IT industry, I bring a strong set of skills and expertise to the table. With a background in Linux Admin and Cloud Associate, I have developed a deep understanding of cloud technology. My career has been focused on Cloud Engineer, Including Linux Admin and AWS Cloud Associate. I am proficient in Linux, AWS Cloud, and have a passion for DevOps. As a Cloud Engineer, I am dedicated to delivering results that exceed expectations. I am strong communicator, collaborator, and problem solver, with a proven track record of ddelivering successful outcomes for clients and organizations. My commitment to continuous learning and professional growth has driven me to DevOps technologies. I am always seeking new challenges and opportunities to further develop my skills and expand my knowledge. With a focus on innovation, collaboration, and excellence, I am confident in my ability to make a positive impact in any organization, let's connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <p align="left">
+      <a href="https://www.youtube.com/c/opensourceasif?sub_confirmation=1">
+      <a href="https://www.youtube.com/c/opensourceasif"> 
+      <a href="https://github.com/asifsource?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/asifsource?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/asifsource?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/asifsource?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Red Hat" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg"/>
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://brandslogos.com/wp-content/uploads/images/large/docker-logo-vector.svg" />
+<img align="left" alt="VMware" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://d33wubrfki0l68.cloudfront.net/291a6603627031d4963524c2d59f22610db5b7ad/b143f/img/logo/svg/monochrome_dark.svg" />
+<br />
+
+#
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@opensourceasif)
+
+
+#
+
+[website]: https://www.linkedin.com/in/asifshaikh-rhce
+[youtube]: https://youtube.com/@opensourceasif
