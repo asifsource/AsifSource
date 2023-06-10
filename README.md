@@ -26,6 +26,7 @@ As an experienced professional in the IT industry, I bring a strong set of skill
 <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://d33wubrfki0l68.cloudfront.net/291a6603627031d4963524c2d59f22610db5b7ad/b143f/img/logo/svg/monochrome_dark.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-0.png" />
 <br />
 
 #
