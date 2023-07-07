@@ -1,4 +1,4 @@
-# 😉☁️🐬 Asif Shaikh
+# Asif Shaikh 🐼
 
 **'Asif Adbul Gani Shaikh ( AWS Cloud | Google Cloud | RHCE | RHCSA | Docker | VMware )'**
 
