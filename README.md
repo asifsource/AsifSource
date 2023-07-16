@@ -41,6 +41,7 @@ As an experienced professional in the IT industry, I bring a strong set of skill
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![How to host website on AWS cloud? AWS cloud par website kaise host kare?](https://ytcards.demolab.com/?id=H3bmXQklcws&title=How+to+host+website+on+AWS+Cloud?+AWS+cloud+par+website+kaise+host+kare?](url)&lang=en&timestamp=1689588000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=385 "How to host website on AWS cloud? AWS cloud par website kaise host kare?")](https://youtu.be/H3bmXQklcws)
 [![How to launch EC2 Instance? EC2 Instance Kaise Launch Kare?](https://ytcards.demolab.com/?id=_gYtZWnYCdw&title=How+to+launch+EC2+Instance?+EC2+Instance+Kaise+Launch+Kare?](url)&lang=en&timestamp=1688764346&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=385 "How to launch EC2 Instance? EC2 Instance Kaise Launch Kare?")](https://youtu.be/_gYtZWnYCdw)
 [![AWS Free Tier Accout Kaise Open Kare](https://ytcards.demolab.com/?id=e1MFQrEW7kk&title=AWS+Free+Tier+Account+Kaise+Open+Kare](url)&lang=en&timestamp=1687875732&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=385 "AWS Free Tier Accout Kaise Open Kare")](https://youtu.be/e1MFQrEW7kk)
 <!-- END YOUTUBE-CARDS -->
