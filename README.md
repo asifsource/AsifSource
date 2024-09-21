@@ -2,8 +2,7 @@
 
 **'Asif Shaikh ( AWS Cloud | Azure | Google Cloud | RHCE | RHCSA | Docker | K8s | Terraform | VMware )'**
 
-As an experienced professional in the IT industry, I bring a strong set of skills and expertise to the table. With a background in Linux Admin and Cloud Associate, I have developed a deep understanding of cloud technology. My career has been focused on Cloud Engineer, Including Linux Admin and AWS Cloud Associate. I am proficient in Linux, AWS Cloud, and have a passion for DevOps. As a Cloud Engineer, I am dedicated to delivering results that exceed expectations. I am strong communicator, collaborator, and problem solver, with a proven track record of ddelivering successful outcomes for clients and organizations. My commitment to continuous learning and professional growth has driven me to DevOps technologies. I am always seeking new challenges and opportunities to further develop my skills and expand my knowledge. With a focus on innovation, collaboration, and excellence, I am confident in my ability to make a positive impact in any organization, let's connect!
-
+Cloud / DevOps Engineer with expertise in Google Cloud, Azure, Linux, Docker, Kubernetes, Terraform, and VMware. With a background in Linux Administration and Cloud Engineering, I focus on delivering scalable solutions and automating infrastructure. I thrive in collaborative environments, solving complex challenges, and continuously expanding my skills. Let’s connect to explore new opportunities!
    <p align="left">
       <a href="https://www.youtube.com/c/opensourceasif?sub_confirmation=1">
       <a href="https://www.youtube.com/c/opensourceasif"> 
