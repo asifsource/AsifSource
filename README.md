@@ -1,11 +1,10 @@
-# Asif Shaikh 🇮🇳
+## Hi, I'm Asif Shaikh! 👋
 
-**'Asif Shaikh ( AWS Cloud | Azure | Google Cloud | RHCE | RHCSA | Docker | K8s | Terraform | VMware )'**
+Cloud and DevOps Engineer with a passion for automating infrastructure and scaling cloud environments. With expertise in AWS, Google Cloud, and Azure, I love to collaborate on projects that solve complex challenges. I'm also a tech enthusiast, content creator on YouTube, and an avid supporter of open-source solutions. Let's connect and explore exciting opportunities together!
 
-Cloud / DevOps Engineer with expertise in Google Cloud, Azure, Linux, Docker, Kubernetes, Terraform, and VMware. With a background in Linux Administration and Cloud Engineering, I focus on delivering scalable solutions and automating infrastructure. I thrive in collaborative environments, solving complex challenges, and continuously expanding my skills. Let’s connect to explore new opportunities!
    <p align="left">
-      <a href="https://www.youtube.com/c/opensourceasif?sub_confirmation=1">
-      <a href="https://www.youtube.com/c/opensourceasif"> 
+      <a href="https://www.youtube.com/c/asifsource?sub_confirmation=1">
+      <a href="https://www.youtube.com/c/asifsource"> 
       <a href="https://github.com/asifsource?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/asifsource?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/asifsource?tab=repositories&sort=stargazers">
