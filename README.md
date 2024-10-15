@@ -13,27 +13,38 @@ Cloud and DevOps Engineer with a passion for automating infrastructure and scali
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools I Use
 
-<img align="left" alt="Red Hat" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg"/>
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://brandslogos.com/wp-content/uploads/images/large/docker-logo-vector.svg" />
-<img align="left" alt="VMware" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://d33wubrfki0l68.cloudfront.net/291a6603627031d4963524c2d59f22610db5b7ad/b143f/img/logo/svg/monochrome_dark.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-0.png" />
-<br />
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
 
 #
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCCu6yHpjvZU2U0uWaxZRypQ?sub_confirmation=1)
 [<img align="left" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg?style=for-the-badge&logo=video&logoColor=white"/>](https://www.linkedin.com/in/asifsource)
-         
-#
+#         
+### 🚀 GitHub Stats & Activity
 
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asifsource&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asifsource&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifsource&layout=compact&theme=radical&hide_border=true)
+  
+  ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=asifsource&theme=react-dark&hide_border=true&area=true&bg_color=00000000)
+
+</div>
 #
 
 ### 📺 Latest YouTube Videos
@@ -57,10 +68,6 @@ Cloud and DevOps Engineer with a passion for automating infrastructure and scali
 
 #
 
-
-### 📊 Stats
-
-![AsifSource's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifsource&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=AsifSource&theme=gruvbox&border_radius=4.5) -->
 
