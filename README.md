@@ -45,7 +45,6 @@ Cloud and DevOps Engineer with a passion for automating infrastructure and scali
   ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=asifsource&theme=react-dark&hide_border=true&area=true&bg_color=00000000)
 
 </div>
-#
 
 ### 📺 Latest YouTube Videos
 
@@ -67,10 +66,10 @@ Cloud and DevOps Engineer with a passion for automating infrastructure and scali
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCCu6yHpjvZU2U0uWaxZRypQ?sub_confirmation=1)
 
 #
-
+### Let's Connect
+[LinkedIn] (https://www.linkedin.com/in/asifsource) | [YouTube] (https://youtube.com/@asifsource)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=AsifSource&theme=gruvbox&border_radius=4.5) -->
 
-#
-[website]: https://www.linkedin.com/in/asifshaikh-rhce
-[youtube]: https://youtube.com/@opensourceasif
+
+
