@@ -1,6 +1,15 @@
 ## Hi, I'm Asif Shaikh! 👋
 
-Cloud and DevOps Engineer with a passion for automating infrastructure and scaling cloud environments. With expertise in AWS, Google Cloud, and Azure, I love to collaborate on projects that solve complex challenges. I'm also a tech enthusiast, content creator on YouTube, and an avid supporter of open-source solutions. Let's connect and explore exciting opportunities together!
+#### 🚀 Multi-Cloud & DevOps Engineer | Cloud Architect | Tech Content Creator
+
+#### Passionate about automating infrastructure, scaling cloud environments, and optimizing cloud solutions across Google Cloud and Azure. I enjoy tackling complex challenges, contributing to open-source projects, and sharing knowledge through my YouTube content.
+
+#### 🎯 Certifications:
+#### ✅ Google Cloud: 3x (Professional Cloud Architect, Associate Cloud Engineer, Cloud Digital Leader)
+#### ✅ Red Hat: 2x (RHCE, RHCSA)
+
+#### 💡 Always learning, building, and collaborating on exciting cloud & DevOps projects! Let's connect and innovate together. 🚀
+
 
    <p align="left">
       <a href="https://www.youtube.com/c/asifsource?sub_confirmation=1">
