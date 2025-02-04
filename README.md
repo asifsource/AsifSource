@@ -8,7 +8,8 @@
 #### ✅ Google Cloud: 3x (Professional Cloud Architect, Associate Cloud Engineer, Cloud Digital Leader)
 #### ✅ Red Hat: 2x (RHCE, RHCSA)
 
-#### 💡 Always learning, building, and collaborating on exciting cloud & DevOps projects! Let's connect and innovate together. 🚀
+#### 💡 Always learning, building, and collaborating on exciting cloud & DevOps projects!
+#### Let's connect and innovate together. 🚀
 
 
    <p align="left">
