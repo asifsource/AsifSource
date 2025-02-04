@@ -2,14 +2,19 @@
 
 #### 🚀 Multi-Cloud & DevOps Engineer | Cloud Architect | Tech Content Creator
 
-#### Passionate about automating infrastructure, scaling cloud environments, and optimizing cloud solutions across Google Cloud and Azure. I enjoy tackling complex challenges, contributing to open-source projects, and sharing knowledge through my YouTube content.
+Passionate about **automating infrastructure**, **scaling cloud environments**, and **optimizing cloud solutions** across **Google Cloud** and **Azure**. I enjoy tackling complex challenges, contributing to open-source projects, and sharing knowledge through my **YouTube content**.  
 
 #### 🎯 Certifications:
-#### ✅ Google Cloud: 3x (Professional Cloud Architect, Associate Cloud Engineer, Cloud Digital Leader)
-#### ✅ Red Hat: 2x (RHCE, RHCSA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud" width="100"/> **Google Cloud:** 3x (Professional Cloud Architect, Associate Cloud Engineer, Cloud Digital Leader)  
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Red_Hat_logo.svg" alt="Red Hat" width="100"/> **Red Hat:** 2x (RHCE, RHCSA)  
 
 #### 💡 Always learning, building, and collaborating on exciting cloud & DevOps projects!
 #### Let's connect and innovate together. 🚀
+
+### 🔗 Find me on:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asifsource)   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/asifsource?sub_confirmation=1)   [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@asifsource)  
+
 
 
    <p align="left">
