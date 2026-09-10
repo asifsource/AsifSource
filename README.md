@@ -5,7 +5,7 @@
 Passionate about **automating infrastructure**, **scaling cloud environments**, and **optimizing cloud solutions** across **Google Cloud** and **Azure**. I enjoy tackling complex challenges, contributing to open-source projects, and sharing knowledge through my **YouTube content**.  
 
 #### 🎯 Certifications:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud" width="100"/> **Google Cloud:** 5x (Cloud DevOps Engineer, Cloud Security Engineer, Professional Cloud Architect, Associate Cloud Engineer, Cloud Digital Leader)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud" width="100"/> **Google Cloud:** 6x (Cloud DevOps Engineer, Cloud Security Engineer, Professional Cloud Architect, Associate Cloud Engineer, Cloud Digital Leader)  
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Red_Hat_logo.svg" alt="Red Hat" width="100"/> **Red Hat:** 2x (RHCE, RHCSA)  
 
