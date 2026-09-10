@@ -1,0 +1,33 @@
+name: Update YouTube Cards
+
+# Refreshes the YouTube section of the profile README on a schedule and on demand.
+on:
+  schedule:
+    - cron: "0 0 * * *"   # every day at 00:00 UTC
+  workflow_dispatch:        # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write           # required so the action can commit the updated README
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update YouTube cards
+        uses: DenverCoder1/youtube-cards-action@v2.0.1
+        with:
+          # Channel ID from your existing badge links (UCCu6yHpjvZU2U0uWaxZRypQ).
+          # If cards don't populate, double-check this against your channel's
+          # "Advanced settings" page, where the Channel ID is shown.
+          channel_id: UCCu6yHpjvZU2U0uWaxZRypQ
+          comment_tag_name: YOUTUBE-CARDS   # matches the markers in README.md
+          max_videos: 6
+          card_width: 250
+          background_color: "#0d1117"
+          title_color: "#ffffff"
+          stats_color: "#dedede"
+          border_radius: 5
+          show_duration: true
